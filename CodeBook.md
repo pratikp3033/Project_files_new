@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+# CodeBook
 
 
 The `run_analysis.R` script merges the data collected from the accelerometers and the gyroscopes from the Samsung Galaxy S smartphone. Further it creates tidy datasets as described below:
