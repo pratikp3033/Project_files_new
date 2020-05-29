@@ -1,8 +1,4 @@
----
-title: "README"
-output: html_document
----
-
+# README
 
 This `README` file gives a brief view of what the files contain:<p>&nbsp;</p> 
 
